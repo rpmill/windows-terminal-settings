@@ -67,3 +67,13 @@ This allows me to navigate to the local repo for my project, make sure I've done
 ```
 vs17 -FileName ProjectName.sln
 ```
+**Additional Function Call - Definitions***
+Depending on the dependencies of the projects I'm working on, I may want to add a function similar to the below, which would let me know which version of Visual Studio or other IDE to use with that particular project. This is especially important regarding Business Intelligence type projects in the Microsoft Stack (SSIS, SSRS, etc).
+```
+function VisualStudioDefine {
+  "ProjectName - Use 2015"
+  "ProjectName - Use 2017"
+  "ProjectName - Use 2010"
+}
+Set-Alias vsdefine VisualStudioDefine
+```
