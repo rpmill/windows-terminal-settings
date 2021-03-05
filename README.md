@@ -49,7 +49,7 @@ This is the location it should be copied to, which is the AppData folder that Wi
 The picture file must be either a .jpg or a .gif to work. Adjust the settings.json file accordingly for how you'd like it formatted.
 
 ### A Better Font
-The font I prefer is Cascadia Code PL, which includes the glyph's that are necessary for some of the git related command prompts. Find it [here](https://github.com/microsoft/cascadia-code/releases?WT.mc_id=-blog-scottha)
+The font I prefer is **Cascadia Code PL**, which includes the glyph's that are necessary for some of the git related command prompts. Find it [here](https://github.com/microsoft/cascadia-code/releases?WT.mc_id=-blog-scottha)
 Additional fonts can be found at [NerdFonts](https://www.nerdfonts.com/) but make sure that they have support for PowerLine glyphs.
 
 ### Basic Powershell Functions - The Bread and Butter
