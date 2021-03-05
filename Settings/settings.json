@@ -37,7 +37,7 @@
             "backgroundImageOpacity" : 0.15,
             "backgroundImageStretchMode" : "fill",  
             "useAcrylic": true,
-            "acrylicOpacity": 0.75,
+            "acrylicOpacity": 0.30,
             "fontFace" : "Cascadia Code PL"
         },
         "list":
